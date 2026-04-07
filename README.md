@@ -20,6 +20,24 @@ HMotionGPT is a multimodal framework that bridges smart-ring IMU signals and nat
 
 This release focuses on the model construction and training pipeline. Internal evaluation scripts, rebuttal code, private data, and large checkpoints are not included.
 
+## System Overview
+
+![HMotionGPT system](figs/HMotionGPT_system.png)
+
+*Fig. 2. (a-b) A user wearing dual smart rings performs daily hand-object interactions such as drinking. (c) The ring prototype integrates a 9-axis IMU, Wi-Fi-enabled MCU, and Li-ion battery within a compact modular form factor. (d) PCB layout and component distribution. (e) System pipeline: HMotionGPT continuously streams IMU data via Wi-Fi to a local network device and cloud server, where HMotionGPT performs activity understanding and generates natural-language descriptions of user actions.*
+
+## Model Architecture
+
+![Overall architecture of HMotionGPT](figs/overview_hmontiongpt.png)
+
+*Fig. 4. Overall Architecture of HMotionGPT.*
+
+## Training Pipeline
+
+![Two-stage training pipeline of HMotionGPT](figs/training_pipeline.png)
+
+*Fig. 5. Two-Stage Training Pipeline of HMotionGPT.*
+
 ## Repository Structure
 
 ```text

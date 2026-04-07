@@ -1,13 +1,13 @@
 # HMotionGPT: Aligning Hand Motions and Natural Language for Activity Understanding with Smart Rings
 
 <p align="center">
-  <a href="https://dl.acm.org/doi/10.1145/3729543"><img src="https://img.shields.io/badge/Paper-IMWUT%202025-blue" alt="Paper"></a>
+  <a href="https://dl.acm.org/doi/10.1145/3729543"><img src="https://img.shields.io/badge/Paper-IMWUT%202026-blue" alt="Paper"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green" alt="License"></a>
 </p>
 
 > **HMotionGPT: Aligning Hand Motions and Natural Language for Activity Understanding with Smart Rings**
 >
-> Accepted in *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* (**IMWUT 2025**)
+> Accepted in *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* (**IMWUT 2026**)
 
 ## Overview
 
@@ -174,10 +174,10 @@ Stage 2 saves:
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@article{hmotiongpt2025,
+@article{hmotiongpt2026,
   title     = {HMotionGPT: Aligning Hand Motions and Natural Language for Activity Understanding with Smart Rings},
   journal   = {Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
-  year      = {2025},
+  year      = {2026},
   publisher = {ACM}
 }
 ```

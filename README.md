@@ -9,6 +9,18 @@
 >
 > Accepted in *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* (**IMWUT 2026**)
 
+## Authors
+
+- Yang Gao, School of Future Technology, South China University of Technology, Guangzhou, China
+- Dong She, School of Future Technology, South China University of Technology, Guangzhou, China
+- Wolin Liang, South China University of Technology, Guangzhou, China
+- Chiyue Wang, South China University of Technology, Guangzhou, Guangdong, China, 202420163875@mail.scut.edu.cn
+- Yingjing Xiao, East China Normal University, Shanghai, China
+- Xianrong Yao, South China University of Technology, Guangzhou, China
+- Cong Liu, South China University of Technology, Guangzhou, China
+- ZhiChao Huang, East China Normal University, Shanghai, China
+- Zhanpeng Jin, School of Future Technology, South China University of Technology, Guangzhou, Guangdong, China, zjin@scut.edu.cn
+
 ## Overview
 
 HMotionGPT is a multimodal framework that bridges smart-ring IMU signals and natural language for hand-centric activity understanding. This repository releases the core open-source training code for the IMU-conditioned language model, including:
